@@ -114,4 +114,14 @@ To use this Discord bot on your server, follow the steps below:
 
 ## Contribuție
 
+### Română
+
 Dacă doriți să susțineți acest proiect, puteți să vă abonați la [canalul meu YouTube](https://youtube.com/@wolfy01).
+
+### English
+
+If you want to support this project, you can subscribe to [my YouTube channel](https://youtube.com/@wolfy01).
+
+### 中文 (Chinese)
+
+如果您想支持这个项目，您可以订阅[我的YouTube频道](https://youtube.com/@wolfy01)。
