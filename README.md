@@ -5,7 +5,6 @@ Bine ați venit la proiectul botului Discord creat în cadrul seriei de tutorial
 ## Cuprins
 
 - [Cum să utilizați acest bot](#cum-să-utilizați-acest-bot)
-- [Configurare](#configurare)
 - [Contribuție](#contribuție)
 
 ## Cum să utilizați acest bot
@@ -44,5 +43,5 @@ Pentru a utiliza acest bot Discord pe serverul dvs., urmați pașii de mai jos:
 
 ## Contribuție
 
-Dacă doriți să contribuiți la dezvoltarea acestui bot sau să raportați probleme, vă rugăm să faceți o bifă la [probleme](https://github.com/utilizator/proiect-bot-discord/issues) sau să trimiteți o cerere de trage cu modificările propuse. Așteptăm cu nerăbdare contribuțiile dvs. și sperăm că vă veți bucura de acest bot Discord!
+Dacă doriți să ma sustineti puteti lasa un subscribe pe canalul de [YouTube](https://youtube.com/@wolfy01)
 
