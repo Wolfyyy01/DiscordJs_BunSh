@@ -4,9 +4,9 @@ Bine ați venit la proiectul botului Discord creat în cadrul seriei de tutorial
 
 ## Limbă / Language / 语言
 
-- [Română](#cum-să-utilizați-acest-bot)
-- [English](#how-to-use-this-bot)
-- [中文 (Chinese)](#如何使用此机器人)
+- [Română](#Română)
+- [English](#English)
+- [中文 (Chinese)](#中文 (Chinese))
 
 ## Cum să utilizați acest bot
 
