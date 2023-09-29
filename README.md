@@ -6,7 +6,7 @@ Bine ați venit la proiectul botului Discord creat în cadrul seriei de tutorial
 
 - [Română](#Română)
 - [English](#English)
-- [中文 (Chinese)](#中文 (Chinese))
+- [中文 (Chinese)](#中文(Chinese))
 
 ## Cum să utilizați acest bot
 
@@ -78,7 +78,7 @@ To use this Discord bot on your server, follow the steps below:
    - Invite the bot to your Discord server using the invitation link generated on Discord Developer Portal.
    - Use the commands and explore the bot's features on your server.
 
-### 中文 (Chinese)
+### 中文(Chinese)
 
 要在您的服务器上使用此Discord机器人，请按照以下步骤操作：
 
